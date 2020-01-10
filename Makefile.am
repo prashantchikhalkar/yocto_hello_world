@@ -4,4 +4,4 @@ CFLAGS = -Wall -pedantic
 include_HEADERS = hello.h
 
 bin_PROGRAMS = hello
-helloworld_SOURCES = hello.c
+hello_SOURCES = hello.c
